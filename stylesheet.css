@@ -1,0 +1,81 @@
+h1{
+  color:#ff0000;
+  font-size:40;
+  font-family:"Lucida Grande"
+}
+/*これはコメントです*/
+.paragraph{
+  color:red;
+}
+
+.named{
+  color:red;
+}
+.section-title{
+  border-left:  4px solid blue;
+  border-bottom: 2px solid blue;
+}
+.contents-item{
+  float: left;
+  margin-right: 30px;
+}
+.contents{
+  height: 400px;
+}
+.contents-item p{
+  background-color: #f3f372;
+  color:black;
+}
+.contents img{
+  height: 250px;
+  width: 250px;
+}
+.header{
+  background-color: #ff6347;
+  height: 150px;
+}
+.header-logo{
+  font-size: 50px;
+  padding: 10px 30px;
+  float:left;
+}
+.header-list{
+  color: #696969;
+}
+.header-list li{
+  list-style: none;
+  float:left;
+  padding:40px;
+}
+.main{
+  background-color: #e0ffff;
+  height: auto;
+}
+.copy-container span{
+  color:blue;
+}
+input,textarea{
+  width:500px;
+  margin-top:10px;
+  margin-bottom:30px;
+  padding:20px;
+  font-size:18px;
+  border:1px solid #dee7ec;
+}
+.footer{
+  background-color: #b3fff2;
+  height: 150px;
+}
+.footer-logo{
+  font-size: 50px;
+  float:left;
+  padding: 20px;
+}
+.footer-list{
+  float:right;
+}
+.footer-list li{
+  list-style: none;
+  padding-bottom:20px;
+  padding-right:20px;
+}
